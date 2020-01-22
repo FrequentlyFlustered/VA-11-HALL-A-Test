@@ -3,9 +3,10 @@
 	font-family: “Courier New”, Courier, monospace;
   }
 
-a{
+a {
 	text-decoration: none;
 	color: #ff0066
+}
 
 h1, h2, h3 {
 	margin: 0
@@ -53,3 +54,4 @@ h1, h2, h3 {
 	background-color: #4d001f
 	color: #ff1a75
 	text-align: right;
+	
